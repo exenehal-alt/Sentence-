@@ -1,0 +1,6 @@
+{
+  "name": "Sentence Completion",
+  "description": "Comprehensive admission English prep app for Sentence Completion with 5 structured categories, bilingual explanations, and full question bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
